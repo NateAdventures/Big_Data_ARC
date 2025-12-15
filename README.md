@@ -14,6 +14,8 @@ requirements.txt        # зависимости (для локального з
 
 output/                 # результаты (Parquet, графики) 
 
+BIGDARC.pdf             # Презентация (4 слайда)
+
 ## Запуск в Google Colab
 
 1. Загрузить файл `analysis.ipynb` в Colab.
